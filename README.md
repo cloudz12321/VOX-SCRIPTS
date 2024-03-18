@@ -1,2 +1,2 @@
-**Free Scripts for u to use :)** 
- /**Discord : https://discord.gg/UmajEPFqab **
+**Free Scripts for u to use :)**
+https://discord.gg/UmajEPFqab
