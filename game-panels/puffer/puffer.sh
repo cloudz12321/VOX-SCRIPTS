@@ -11,4 +11,12 @@ sudo pufferpanel user add
 sudo systemctl enable --now pufferpanel
 clear
 sleep 2
-echo 'Your Pufferpanel Service its online at 8080 port'
+apt install ufw -y
+ufw allow 8080
+ufw allow 443
+ufw allow 5657
+sleep 2 
+clear
+echo 'Pufferpanel Info:'
+echo ' WEB PORT : 8080'
+echo ' SFTP PORT : 5657'
