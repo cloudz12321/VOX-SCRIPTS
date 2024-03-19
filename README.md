@@ -3,7 +3,8 @@
 ### **_Pterodactyl + Wings Auto Script --Comming Soon_**
 ### **_Minecraft & Java All versions_**
 ### **_Pufferpanel Auto Script_**
-## ![featured](https://github.com/cloudz12321/VOX-SCRIPTS/assets/158510509/19f7d9a3-8fde-41b1-978e-637362c97eec)
+## ![octocat-1710833229465](https://github.com/cloudz12321/VOX-SCRIPTS/assets/158510509/ad8a3a7f-11b1-4dd9-853d-0c166ca19e0f)
+
 ## 
 ## Go to Download Page Page.
 ## [Download](Download.md)
