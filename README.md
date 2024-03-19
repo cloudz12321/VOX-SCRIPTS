@@ -10,6 +10,10 @@
 ## [Download](Download.md)
 ##
 ##
+## Update List
+## - [❓] Adding All Paper Versions
+## - [🧨] Adding YT Tutorial 
+## - [✅] Add delight to the experience when all tasks are complete :tada:
 ##
 ## ![standard_1](https://github.com/cloudz12321/VOX-SCRIPTS/assets/158510509/5dd7946c-7b11-45ca-af02-753b347d8552)
 #### **_All Rights Reserver for VOX200_** 
