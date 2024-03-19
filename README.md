@@ -5,8 +5,8 @@
 ### **_Pufferpanel Auto Script_**
 ## ![featured](https://github.com/cloudz12321/VOX-SCRIPTS/assets/158510509/19f7d9a3-8fde-41b1-978e-637362c97eec)
 ## 
-##### Go to Download Page Page. [Download](Download.md)
-##
+## Go to Download Page Page.
+## [Download](Download.md)
 ##
 ##
 ##
