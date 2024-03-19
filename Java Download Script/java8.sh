@@ -13,7 +13,9 @@ echo '################################'
 sleep 3
 sudo apt-get update -y
 sleep 2
-sudo apt-get install openjdk-8-jdk -y
+sudo apt install default-jre -y
+sleep 2
+sudo apt install default-jdk
 sleep 3
 clear
 sleep 2
