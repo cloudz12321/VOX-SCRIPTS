@@ -6,7 +6,7 @@ sleep 1
 clear
 echo '################################'
 echo '#                              #'
-echo '#  JAVA 8 INSTALL SCRIPT       #'
+echo '#  JAVA 17 INSTALL SCRIPT       #'
 echo '# please be patient            #'
 echo '#                              #'
 echo '################################'
